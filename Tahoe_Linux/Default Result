@@ -1,0 +1,340 @@
+./script-sat-Tahoe.sh 
+Varying #Nodes.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 1                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+Cannot connect to existing nam instance. Starting a new one...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   10 
+
+
+
+Throughput:                   509644.70000 
+AverageDelay:                 .19015 
+Sent Packets:                 551408.00000 
+Received Packets:             551239.00000 
+Dropped Packets:              151.00000 
+PacketDeliveryRatio:          99.97000 
+PacketDropRatio:              .03000 
+Total time:                   8998.99960 
+Total Delay: 					104825.67420 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 2                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   20 
+
+
+
+Throughput:                   617983.15000 
+AverageDelay:                 .17280 
+Sent Packets:                 668588.00000 
+Received Packets:             668419.00000 
+Dropped Packets:              130.00000 
+PacketDeliveryRatio:          99.97000 
+PacketDropRatio:              .02000 
+Total time:                   8998.99960 
+Total Delay: 					115503.30900 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 3                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   30 
+
+
+
+Throughput:                   637229.44000 
+AverageDelay:                 .17325 
+Sent Packets:                 689436.00000 
+Received Packets:             689236.00000 
+Dropped Packets:              130.00000 
+PacketDeliveryRatio:          99.97000 
+PacketDropRatio:              .02000 
+Total time:                   8998.99960 
+Total Delay: 					119421.22040 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 4                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   40 
+
+
+
+Throughput:                   645665.01000 
+AverageDelay:                 .17400 
+Sent Packets:                 698605.00000 
+Received Packets:             698360.00000 
+Dropped Packets:              131.00000 
+PacketDeliveryRatio:          99.96000 
+PacketDropRatio:              .02000 
+Total time:                   8998.99960 
+Total Delay: 					121541.40570 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 5                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   50 
+
+
+
+Throughput:                   650042.74000 
+AverageDelay:                 .17455 
+Sent Packets:                 703378.00000 
+Received Packets:             703095.00000 
+Dropped Packets:              129.00000 
+PacketDeliveryRatio:          99.96000 
+PacketDropRatio:              .02000 
+Total time:                   8998.99960 
+Total Delay: 					122734.16410 
+./script-sat-Tahoe.sh: line 161: gnuplot: command not found
+./script-sat-Tahoe.sh: line 161: gnuplot: command not found
+./script-sat-Tahoe.sh: line 161: gnuplot: command not found
+./script-sat-Tahoe.sh: line 161: gnuplot: command not found
+
+
+
+
+
+
+./script-sat-Linux.sh 
+Varying #Nodes.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 1                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   10 
+
+
+
+Throughput:                   1400451.49000 
+AverageDelay:                 .30240 
+Sent Packets:                 1515457.00000 
+Received Packets:             1514745.00000 
+Dropped Packets:              650.00000 
+PacketDeliveryRatio:          99.95000 
+PacketDropRatio:              .04000 
+Total time:                   8998.99960 
+Total Delay: 					458095.45720 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 2                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   20 
+
+
+
+Throughput:                   1508024.41000 
+AverageDelay:                 .29745 
+Sent Packets:                 1631891.00000 
+Received Packets:             1631097.00000 
+Dropped Packets:              719.00000 
+PacketDeliveryRatio:          99.95000 
+PacketDropRatio:              .04000 
+Total time:                   8998.99960 
+Total Delay: 					485210.91460 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 3                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   30 
+
+
+
+Throughput:                   1525837.66000 
+AverageDelay:                 .29995 
+Sent Packets:                 1651213.00000 
+Received Packets:             1650364.00000 
+Dropped Packets:              734.00000 
+PacketDeliveryRatio:          99.95000 
+PacketDropRatio:              .04000 
+Total time:                   8998.99960 
+Total Delay: 					495022.73950 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 4                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   40 
+
+
+
+Throughput:                   1533495.68000 
+AverageDelay:                 .30160 
+Sent Packets:                 1659532.00000 
+Received Packets:             1658647.00000 
+Dropped Packets:              721.00000 
+PacketDeliveryRatio:          99.95000 
+PacketDropRatio:              .04000 
+Total time:                   8998.99960 
+Total Delay: 					500292.72270 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 5                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   50 
+
+
+
+Throughput:                   1537436.10000 
+AverageDelay:                 .30250 
+Sent Packets:                 1664051.00000 
+Received Packets:             1662909.00000 
+Dropped Packets:              716.00000 
+PacketDeliveryRatio:          99.93000 
+PacketDropRatio:              .04000 
+Total time:                   8998.99960 
+Total Delay: 					503104.25440 
+./script-sat-Linux.sh: line 161: gnuplot: command not found
+./script-sat-Linux.sh: line 161: gnuplot: command not found
+./script-sat-Linux.sh: line 161: gnuplot: command not found
+./script-sat-Linux.sh: line 161: gnuplot: command not found
+
