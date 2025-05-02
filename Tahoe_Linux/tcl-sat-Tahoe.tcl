@@ -95,7 +95,7 @@ for {set i 0} {$i < [expr $num_node]} {incr i} {
 # GEO satellite:  above North America-- lets put it at 100 deg. W
 $ns_ node-config -satNodeType geo
 set n11 [$ns_ node]
-$n11 set-position 116.7; # Above IKN
+$n11 set-position 116.70883; # Above IKN
 
 # Terminals:  Let's put two within the US, two around the prime meridian
 $ns_ node-config -satNodeType terminal 
