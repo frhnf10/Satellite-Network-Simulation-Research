@@ -1,0 +1,168 @@
+Change Information
+Coordinate (116.70883) Above IKN
+Coordinate (37.55 126.99) Seoul Sender
+Coordinate (3.59 98.67) Medan Receiver
+Distance 4,749KM
+
+./script-sat-Tahoe.sh 
+Varying #Nodes.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 1                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   10 
+
+
+
+Throughput:                   520421.21000 
+AverageDelay:                 .18630 
+Sent Packets:                 563050.00000 
+Received Packets:             562895.00000 
+Dropped Packets:              151.00000 
+PacketDeliveryRatio:          99.97000 
+PacketDropRatio:              .03000 
+Total time:                   8998.99980 
+Total Delay: 					104889.14530 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 2                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   20 
+
+
+
+Throughput:                   628759.65000 
+AverageDelay:                 .16990 
+Sent Packets:                 680230.00000 
+Received Packets:             680075.00000 
+Dropped Packets:              130.00000 
+PacketDeliveryRatio:          99.98000 
+PacketDropRatio:              .02000 
+Total time:                   8998.99980 
+Total Delay: 					115567.03730 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 3                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   30 
+
+
+
+Throughput:                   648005.95000 
+AverageDelay:                 .17045 
+Sent Packets:                 701078.00000 
+Received Packets:             700892.00000 
+Dropped Packets:              130.00000 
+PacketDeliveryRatio:          99.97000 
+PacketDropRatio:              .02000 
+Total time:                   8998.99980 
+Total Delay: 					119485.24570 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 4                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   40 
+
+
+
+Throughput:                   656441.52000 
+AverageDelay:                 .17125 
+Sent Packets:                 710247.00000 
+Received Packets:             710016.00000 
+Dropped Packets:              131.00000 
+PacketDeliveryRatio:          99.97000 
+PacketDropRatio:              .02000 
+Total time:                   8998.99980 
+Total Delay: 					121605.62060 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         ROUND : 5                              
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################EXECUTING 1 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 2 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 3 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 4 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+################EXECUTING 5 th ITERATION################
+start node creation
+SIMULATION COMPLETE. BUILDING STAT...
+
+# of Nodes:                   50 
+
+
+
+Throughput:                   660819.25000 
+AverageDelay:                 .17180 
+Sent Packets:                 715020.00000 
+Received Packets:             714751.00000 
+Dropped Packets:              129.00000 
+PacketDeliveryRatio:          99.96000 
+PacketDropRatio:              .02000 
+Total time:                   8998.99980 
+Total Delay: 					122798.30500
