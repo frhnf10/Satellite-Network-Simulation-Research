@@ -2,7 +2,10 @@ Change Information
 Coordinate (116.7) Above IKN
 Coordinate (-6.23 106.82) Jakarta Sender
 Coordinate (-2.59 140.67) Jayapura Receiver
-Distance 3,773KM
+Distance 3,773 KM
+Distance Between Sender & Satellite Orbit: 1,094 KM
+Bandwith Up: 1.5 Mb
+Bandwith Down: 1.5 Mb
 
 ./script-sat-Linux.sh 
 Varying #Nodes.
