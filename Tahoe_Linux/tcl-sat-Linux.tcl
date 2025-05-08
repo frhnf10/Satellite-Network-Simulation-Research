@@ -16,8 +16,8 @@ HandoffManager set handoff_randomization_ false
 
 global opt
 set opt(chan)           Channel/Sat
-set opt(bw_down)	10.5Mb; # Downlink bandwidth (satellite to ground)
-set opt(bw_up)		10.5Mb; # Uplink bandwidth
+set opt(bw_down)	3Mb; # Downlink bandwidth (satellite to ground)
+set opt(bw_up)		3Mb; # Uplink bandwidth
 set opt(bw_isl)		25Mb
 set opt(phy)            Phy/Sat
 set opt(mac)            Mac/Sat
@@ -95,13 +95,13 @@ for {set i 0} {$i < [expr $num_node]} {incr i} {
 # GEO satellite:  above North America-- lets put it at 100 deg. W
 $ns_ node-config -satNodeType geo
 set n11 [$ns_ node]
-$n11 set-position 116.70883; # Above IKN
+$n11 set-position 116.7; # Above IKN
 
 # Terminals:  Let's put two within the US, two around the prime meridian
 $ns_ node-config -satNodeType terminal 
 set n100 [$ns_ node]; set n101 [$ns_ node]
-$n100 set-position 37.55 126.99; # Seoul Sender
-$n101 set-position 3.59 98.67; # Medan Receiver
+$n100 set-position -6.23 106.82; # Jakarta Sender
+$n101 set-position -2.59 140.67; # Jayarpura Receiver
 set n200 [$ns_ node]; set n201 [$ns_ node]
 $n200 set-position 0 10;
 $n201 set-position 0 -10;
@@ -198,6 +198,5 @@ proc finish {} {
     	#exec nam satellite_comm_out.nam &
 	exit 0
 }
-
 
 $ns_ run
