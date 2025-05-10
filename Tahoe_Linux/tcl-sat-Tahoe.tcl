@@ -100,11 +100,11 @@ $n11 set-position 116.7; # Above IKN
 # Terminals:  Let's put two within the US, two around the prime meridian
 $ns_ node-config -satNodeType terminal 
 set n100 [$ns_ node]; set n101 [$ns_ node]
-$n100 set-position -6.23 106.82; # Jakarta Sender
+$n100 set-position 41.01 29.02; # Istanbul Sender
 #$n100 label Sender
 #$n100 color blue
 #$n100 shape hexagon
-$n101 set-position -2.59 140.67; # Jayarpura Receiver
+$n101 set-position 3.59 98.67; # Medan Receiver
 #$n101 label Receiver
 #$n101 color red
 #$n101 shape square

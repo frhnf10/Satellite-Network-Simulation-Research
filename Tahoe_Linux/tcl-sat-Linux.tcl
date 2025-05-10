@@ -100,8 +100,8 @@ $n11 set-position 116.7; # Above IKN
 # Terminals:  Let's put two within the US, two around the prime meridian
 $ns_ node-config -satNodeType terminal 
 set n100 [$ns_ node]; set n101 [$ns_ node]
-$n100 set-position -6.23 106.82; # Jakarta Sender
-$n101 set-position -2.59 140.67; # Jayarpura Receiver
+$n100 set-position 41.01 29.02; # Istanbul Sender
+$n101 set-position 3.59 98.67; # Medan Receiver
 set n200 [$ns_ node]; set n201 [$ns_ node]
 $n200 set-position 0 10;
 $n201 set-position 0 -10;
