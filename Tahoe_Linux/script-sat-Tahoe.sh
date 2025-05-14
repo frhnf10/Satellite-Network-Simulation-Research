@@ -5,8 +5,8 @@ rm -rf $outputDirectory
 mkdir -p $outputDirectory
 
 tclFile="tcl-sat-Tahoe.tcl"
-awkFile="awk-sat.awk"
-traceFile="sat_trace.tr"
+awkFile="awk-satT.awk"
+traceFile="sat_traceT.tr"
 
 #set "5.0" as default
 iteration_float=5.0;

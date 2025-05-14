@@ -5,8 +5,8 @@ rm -rf $outputDirectory
 mkdir -p $outputDirectory
 
 tclFile="tcl-sat-Linux.tcl"
-awkFile="awk-sat.awk"
-traceFile="sat_trace.tr"
+awkFile="awk-satL.awk"
+traceFile="sat_traceL.tr"
 
 #set "5.0" as default
 iteration_float=5.0;
