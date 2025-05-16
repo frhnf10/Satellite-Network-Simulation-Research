@@ -155,13 +155,13 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   2943613.49400 
-AverageDelay:                 .24584 
-Sent Packets:                 3184971.60000 
-Received Packets:             3183845.20000 
-Dropped Packets:              654.60000 
+Throughput:                   2943721.48000 
+AverageDelay:                 .24590 
+Sent Packets:                 3185090.00000 
+Received Packets:             3183962.00000 
+Dropped Packets:              657.00000 
 PacketDeliveryRatio:          99.96000 
 PacketDropRatio:              .02000 
 Total time:                   8998.99940 
-Total Delay: 					782819.82278
+Total Delay: 					783062.09450 
 Warning: empty y range [0.02:0.02], adjusting to [0.0198:0.0202]

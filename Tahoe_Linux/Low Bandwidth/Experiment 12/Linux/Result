@@ -1,8 +1,13 @@
 Change Information
-Bandwith Up: 3 Mb
-Bandwith Down: 3 Mb
+Coordinate (116.70883) Above IKN
+Coordinate (37.55 126.99) Seoul Sender
+Coordinate (3.59 98.67) Medan Receiver
+Distance 4,749 KM
+Distance Between Sender & Satellite Orbit: 896 KM
+Bandwith Up: 0.704 Mb
+Bandwith Down: 0.704 Mb
 
-./script-sat-Tahoe.sh 
+./script-sat-Linux.sh 
 Varying #Nodes.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 1                              
@@ -27,15 +32,15 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   702687.77000 
-AverageDelay:                 .13670 
-Sent Packets:                 760211.00000 
-Received Packets:             760034.00000 
-Dropped Packets:              157.00000 
-PacketDeliveryRatio:          99.98000 
-PacketDropRatio:              .02000 
-Total time:                   8998.97100 
-Total Delay: 					103912.30870 
+Throughput:                   679613.45000 
+AverageDelay:                 .42970 
+Sent Packets:                 735490.00000 
+Received Packets:             735079.00000 
+Dropped Packets:              371.00000 
+PacketDeliveryRatio:          99.94000 
+PacketDropRatio:              .05000 
+Total time:                   8998.99980 
+Total Delay: 					315876.67490 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 2                              
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -59,15 +64,15 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   919381.06000 
-AverageDelay:                 .11265 
-Sent Packets:                 994564.00000 
-Received Packets:             994411.00000 
-Dropped Packets:              131.00000 
-PacketDeliveryRatio:          99.98000 
-PacketDropRatio:              .01000 
-Total time:                   8998.97100 
-Total Delay: 					112036.51690 
+Throughput:                   730253.67000 
+AverageDelay:                 .43515 
+Sent Packets:                 790300.00000 
+Received Packets:             789852.00000 
+Dropped Packets:              407.00000 
+PacketDeliveryRatio:          99.94000 
+PacketDropRatio:              .05000 
+Total time:                   8998.99980 
+Total Delay: 					343727.64500 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 3                              
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -91,15 +96,15 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   957469.01600 
-AverageDelay:                 .11075 
-Sent Packets:                 1035761.20000 
-Received Packets:             1035607.20000 
-Dropped Packets:              124.00000 
-PacketDeliveryRatio:          99.99000 
-PacketDropRatio:              .01000 
-Total time:                   8998.97100 
-Total Delay: 					114730.55784 
+Throughput:                   738356.40000 
+AverageDelay:                 .44135 
+Sent Packets:                 799163.00000 
+Received Packets:             798616.00000 
+Dropped Packets:              442.00000 
+PacketDeliveryRatio:          99.93000 
+PacketDropRatio:              .06000 
+Total time:                   8998.99980 
+Total Delay: 					352485.59950 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 4                              
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -123,15 +128,15 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   974703.37000 
-AverageDelay:                 .10995 
-Sent Packets:                 1054421.00000 
-Received Packets:             1054248.00000 
-Dropped Packets:              124.00000 
-PacketDeliveryRatio:          99.98000 
-PacketDropRatio:              .01000 
-Total time:                   8998.97100 
-Total Delay: 					115950.01360 
+Throughput:                   741922.38000 
+AverageDelay:                 .44580 
+Sent Packets:                 803192.00000 
+Received Packets:             802473.00000 
+Dropped Packets:              432.00000 
+PacketDeliveryRatio:          99.91000 
+PacketDropRatio:              .05000 
+Total time:                   8998.99980 
+Total Delay: 					357759.83300 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 5                              
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -155,12 +160,12 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   983107.90400 
-AverageDelay:                 .10959 
-Sent Packets:                 1063524.80000 
-Received Packets:             1063338.40000 
-Dropped Packets:              123.00000 
-PacketDeliveryRatio:          99.98000 
-PacketDropRatio:              .01000 
-Total time:                   8998.97100 
-Total Delay: 					116560.03530
+Throughput:                   744003.54000 
+AverageDelay:                 .44975 
+Sent Packets:                 805497.00000 
+Received Packets:             804724.00000 
+Dropped Packets:              417.00000 
+PacketDeliveryRatio:          99.90000 
+PacketDropRatio:              .05000 
+Total time:                   8998.99980 
+Total Delay: 					361928.51010
