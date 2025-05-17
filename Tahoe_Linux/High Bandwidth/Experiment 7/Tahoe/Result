@@ -1,5 +1,5 @@
 Change Information
-Coordinate (116.7) Above IKN
+Coordinate (116.70883) Above IKN
 Coordinate (41.01 29.02) Istanbul Sender
 Coordinate (3.59 98.67) Medan Receiver
 Distance 8,046 KM
@@ -7,7 +7,7 @@ Distance Between Sender & Satellite Orbit: 5,471 KM
 Bandwith Up: 3 Mb
 Bandwith Down: 3 Mb
 
-/script-sat-Tahoe.sh 
+./script-sat-Tahoe.sh 
 Varying #Nodes.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 1                              

@@ -1,5 +1,5 @@
 Change Information
-Coordinate (116.7) Above IKN
+Coordinate (116.70883) Above IKN
 Coordinate (-6.23 106.82) Jakarta Sender
 Coordinate (-2.59 140.67) Jayapura Receiver
 Distance 3,773 KM
@@ -7,7 +7,7 @@ Distance Between Sender & Satellite Orbit: 1,094 KM
 Bandwith Up: 1.5 Mb
 Bandwith Down: 1.5 Mb
 
-./script-sat-Tahoe.sh
+./script-sat-Tahoe.sh 
 Varying #Nodes.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 1                              
@@ -96,15 +96,15 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   653337.32000 
+Throughput:                   653336.76400 
 AverageDelay:                 .16910 
-Sent Packets:                 706838.00000 
-Received Packets:             706656.00000 
+Sent Packets:                 706836.60000 
+Received Packets:             706655.40000 
 Dropped Packets:              130.00000 
 PacketDeliveryRatio:          99.97000 
 PacketDropRatio:              .02000 
 Total time:                   8998.96850 
-Total Delay: 					119516.98200 
+Total Delay: 					119512.90650 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 4                              
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -168,5 +168,4 @@ Dropped Packets:              129.00000
 PacketDeliveryRatio:          99.96000 
 PacketDropRatio:              .02000 
 Total time:                   8998.96850 
-Total Delay: 					122826.97280 
-
+Total Delay: 					122826.97280

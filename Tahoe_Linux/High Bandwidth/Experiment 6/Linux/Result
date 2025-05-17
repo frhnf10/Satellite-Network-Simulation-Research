@@ -1,5 +1,5 @@
 Change Information
-Coordinate (116.7) Above IKN
+Coordinate (116.70883) Above IKN
 Coordinate (-6.23 106.82) Jakarta Sender
 Coordinate (-2.59 140.67) Jayapura Receiver
 Distance 3,773 KM
@@ -32,15 +32,15 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   2667766.59000 
+Throughput:                   2667763.43000 
 AverageDelay:                 .24520 
-Sent Packets:                 2886235.00000 
-Received Packets:             2885486.00000 
+Sent Packets:                 2886233.00000 
+Received Packets:             2885483.00000 
 Dropped Packets:              704.00000 
 PacketDeliveryRatio:          99.97000 
 PacketDropRatio:              .02000 
-Total time:                   8998.99850 
-Total Delay: 					707645.49000 
+Total time:                   8998.99980 
+Total Delay: 					707641.39270 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 2                              
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -64,15 +64,15 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   2887920.72000 
-AverageDelay:                 .23565 
-Sent Packets:                 3124495.00000 
-Received Packets:             3123607.00000 
+Throughput:                   2887917.53000 
+AverageDelay:                 .23560 
+Sent Packets:                 3124493.00000 
+Received Packets:             3123604.00000 
 Dropped Packets:              840.00000 
 PacketDeliveryRatio:          99.97000 
 PacketDropRatio:              .03000 
-Total time:                   8998.99850 
-Total Delay: 					736063.72520 
+Total time:                   8998.99980 
+Total Delay: 					736059.62790 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 3                              
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -96,15 +96,15 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   2923360.47000 
+Throughput:                   2923357.27000 
 AverageDelay:                 .23600 
-Sent Packets:                 3162864.00000 
-Received Packets:             3161939.00000 
+Sent Packets:                 3162862.00000 
+Received Packets:             3161936.00000 
 Dropped Packets:              823.00000 
 PacketDeliveryRatio:          99.97000 
 PacketDropRatio:              .03000 
-Total time:                   8998.99850 
-Total Delay: 					746298.45690 
+Total time:                   8998.99980 
+Total Delay: 					746294.35960 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 4                              
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -128,15 +128,15 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   2938079.26000 
+Throughput:                   2938076.06000 
 AverageDelay:                 .23645 
-Sent Packets:                 3178890.00000 
-Received Packets:             3177859.00000 
+Sent Packets:                 3178888.00000 
+Received Packets:             3177856.00000 
 Dropped Packets:              785.00000 
 PacketDeliveryRatio:          99.97000 
 PacketDropRatio:              .02000 
-Total time:                   8998.99850 
-Total Delay: 					751456.62010 
+Total time:                   8998.99980 
+Total Delay: 					751461.14430 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          ROUND : 5                              
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -160,12 +160,12 @@ SIMULATION COMPLETE. BUILDING STAT...
 
 
 
-Throughput:                   2946153.33000 
+Throughput:                   2946150.14000 
 AverageDelay:                 .23685 
-Sent Packets:                 3187826.00000 
-Received Packets:             3186592.00000 
+Sent Packets:                 3187824.00000 
+Received Packets:             3186589.00000 
 Dropped Packets:              810.00000 
 PacketDeliveryRatio:          99.96000 
 PacketDropRatio:              .03000 
-Total time:                   8998.99850 
-Total Delay: 					754824.97470
+Total time:                   8998.99980 
+Total Delay: 					754790.38220
