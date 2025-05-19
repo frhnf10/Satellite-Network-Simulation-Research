@@ -95,13 +95,13 @@ for {set i 0} {$i < [expr $num_node]} {incr i} {
 # GEO satellite:  above North America-- lets put it at 100 deg. W
 $ns_ node-config -satNodeType geo
 set n11 [$ns_ node]
-$n11 set-position 116.70883; # Above IKN
+$n11 set-position -100
 
 # Terminals:  Let's put two within the US, two around the prime meridian
 $ns_ node-config -satNodeType terminal 
 set n100 [$ns_ node]; set n101 [$ns_ node]
-$n100 set-position 41.01 29.02; # Istanbul Sender
-$n101 set-position 3.59 98.67; # Medan Receiver
+$n100 set-position 37.9 -122.3; # Berkeley
+$n101 set-position 42.3 -71.1; # Boston
 set n200 [$ns_ node]; set n201 [$ns_ node]
 $n200 set-position 0 10;
 $n201 set-position 0 -10;
