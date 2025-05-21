@@ -16,13 +16,13 @@ HandoffManager set handoff_randomization_ false
 
 global opt
 set opt(chan)           Channel/Sat
-set opt(bw_down)	3Mb; # Downlink bandwidth (satellite to ground)
-set opt(bw_up)		3Mb; # Uplink bandwidth
+set opt(bw_down)	1.5Mb; # Downlink bandwidth (satellite to ground)
+set opt(bw_up)		1.5Mb; # Uplink bandwidth
 set opt(bw_isl)		25Mb
 set opt(phy)            Phy/Sat
 set opt(mac)            Mac/Sat
 set opt(ifq)            Queue/DropTail
-set opt(qlim)		10
+set opt(qlim)		25
 set opt(ll)             LL/Sat
 # set opt(wiredRouting)   ON
 set opt(wiredRouting)   ON
